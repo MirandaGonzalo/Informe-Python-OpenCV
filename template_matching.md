@@ -85,8 +85,8 @@ cv2.destroyAllWindows()
 En este ejemplo a diferencia del primero la imagen en la que vamos a realizar la búsqueda va a devolver varios resultados, la imagen elegida muestra a mas de 50 personajes de los Simpsons.
 
 ###### Imagen: https://aws.revistavanityfair.es/prod/designs/v1/assets/785x589/836.jpg
-#
-#### Cara de Maggie: ![Maggie:](maggie.png "Cara de Maggie.")
+
+![Maggie:](maggie.png "Cara de Maggie.")
 
 ```
 import cv2
