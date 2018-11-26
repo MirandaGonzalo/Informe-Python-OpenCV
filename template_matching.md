@@ -38,7 +38,7 @@ En el siguiente ejemplo vamos a utilizar como objeto de búsqueda la cara de uno
 
 
 ###### Imagen: https://i.blogs.es/d0a0dd/planet_51/450_1000.jpg
-#
+
 ![Alien:](cara_planet_51.jpg "Cara del Alien.")
 
 ```
@@ -86,7 +86,7 @@ En este ejemplo a diferencia del primero la imagen en la que vamos a realizar la
 
 ###### Imagen: https://aws.revistavanityfair.es/prod/designs/v1/assets/785x589/836.jpg
 #
-![Maggie:](maggie.jpg "Cara de Maggie.")
+#### Cara de Maggie: ![Maggie:](maggie.png "Cara de Maggie.")
 
 ```
 import cv2
